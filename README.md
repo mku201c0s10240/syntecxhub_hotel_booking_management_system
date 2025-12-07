@@ -58,7 +58,7 @@ Enter Your Choice..
 6. Convert to web project (Java Spring Boot + MySQL)
 
 # License
-This project is licensed under the MIT License – free to use, modify, and distribute.
+This project is open-source and free to use.
 
 # Author
 Nagaraj A
